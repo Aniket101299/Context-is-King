@@ -1,0 +1,31 @@
+{
+  "users": [
+    {
+      "name": "Aniket",
+      "age": "22",
+      "dateOfBirth": "1999-12-10",
+      "stateOfResidence": "Maharashtra",
+      "address": "At post Jamb, Tal Wai, Dist Satara",
+      "pincode": "415530",
+      "id": 1
+    },
+    {
+      "name": "Sanket",
+      "age": "19",
+      "dateOfBirth": "2002-12-29",
+      "stateOfResidence": "Maharashtra",
+      "address": "At post Jamb, Tal Wai, Dist Satara",
+      "pincode": "415530",
+      "id": 2
+    },
+    {
+      "name": "Papa",
+      "age": "50",
+      "dateOfBirth": "2022-04-16",
+      "stateOfResidence": "Maharashtra",
+      "address": "At post Jamb, Tal Wai, Dist Satara",
+      "pincode": "415530",
+      "id": 3
+    }
+  ]
+}
